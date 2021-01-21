@@ -1,0 +1,8 @@
+body {
+  background:
+  url("../images/light.jpg") repeat;
+  -webkit-background-size: cover;
+  background-size:auto;
+  height: auto;
+}
+
